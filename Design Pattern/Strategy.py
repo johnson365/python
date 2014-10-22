@@ -1,3 +1,4 @@
+"""Implementation of Strategy pattern"""
 from abc import ABCMeta, abstractmethod
 
 class Strategy:
